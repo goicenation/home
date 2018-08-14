@@ -1,1 +1,1 @@
-# home
+# Welcome to the Icenation website!
